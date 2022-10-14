@@ -26,10 +26,10 @@ int main(void)
 while 
   (c <= 'z')
   {
-putchar(c);
+putchar(b);
 b++;
   }
-														                             
+putchar('\n');
 return (0);                                   
 }		
 							                            
