@@ -24,7 +24,7 @@ int main(void)
  c++;                                                    
 			  	}
 while 
-  (c >= 'a')
+  (b <= 'Z')
   {
 putchar(b);
 b++;
