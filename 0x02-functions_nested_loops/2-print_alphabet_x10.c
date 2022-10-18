@@ -13,16 +13,16 @@ int x, y;
 x = 0;
 
 
-while (y < 10)
+while (x < 10)
 
 {
-for (x = 'a'; x <= 'z'; x++)
+for (y = 'a'; y <= 'z'; y++)
 {
 
-_putchar(x);
+_putchar(y);
 }
 
-	y++;
+	x++;
 
 _putchar('\n');
 
